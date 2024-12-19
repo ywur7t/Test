@@ -369,6 +369,7 @@ header{
 #contacts .item-wrapper, #contacts .social-wrapper{
   flex:1;
   height:auto;
+  width: 45%;
 }
 .contacts-main .item-wrapper img,
 .social-wrapper img  {
