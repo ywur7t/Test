@@ -520,7 +520,7 @@ footer .contacts img {
 }
 @media (max-width: 480px){
   #main{
-    height: 50vh;
+    height: 30vh;
   }
   #main-content{
     flex-direction: column;
