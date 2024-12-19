@@ -364,7 +364,7 @@ header{
   flex-direction: row;
   gap: 30px;
   /* justify-content: space-evenly; */
-  width: 100vw;
+  width: 100%;
 }
 #contacts .item-wrapper, #contacts .social-wrapper{
   flex:1;
@@ -519,11 +519,9 @@ footer .contacts img {
 
 }
 @media (max-width: 480px){
-  header li a{
-    font-size: 1vw;
-  }
+  
   #main{
-    height: 200px;
+    height: 30vh;
   }
   #main-content{
     flex-direction: column;
