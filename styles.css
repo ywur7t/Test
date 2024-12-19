@@ -505,7 +505,7 @@ footer .contacts img {
 
 @media (max-width: 800px){
   #main{
-    height: 60vh;
+    height: 30vh;
   }
   #whywe .item-wrapper{
     height: 70vh;
