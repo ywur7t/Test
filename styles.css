@@ -471,13 +471,13 @@ footer .contacts img {
 
 @media (max-width: 1024px){
 #main{
-  height: 40vh;
+  height: 70vh;
 }
 }
 
 @media (max-width: 810px){
   #main{
-    height: 40vh;
+    height: 70vh;
   }
 
   #whywe .item-wrapper{
@@ -505,7 +505,7 @@ footer .contacts img {
 
 @media (max-width: 800px){
   #main{
-    height: 30vh;
+    height: 60vh;
   }
   #whywe .item-wrapper{
     height: 70vh;
@@ -520,7 +520,7 @@ footer .contacts img {
 }
 @media (max-width: 480px){
   #main{
-    height: 30vh;
+    height: 200px;
   }
   #main-content{
     flex-direction: column;
