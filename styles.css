@@ -605,24 +605,24 @@ font-size: 3vw;
   }
 
 
-  footer .contacts .icons img,
+/*   footer .contacts .icons img,
 footer .contacts img {
   width: 20px;
   height: 20px;
   margin-left: 10px;
   color: white;
   filter: contrast(0%) brightness(100%);
-}
+} */
 
 }
 
-/* 
+
 @media (min-width: 3000px){
 
   .services-main .item-main p,
   .services-main .item-main ul{
 
     font-size: 2vw;
-} */
+}
 
 }
