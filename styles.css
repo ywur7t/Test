@@ -364,7 +364,7 @@ header{
   flex-direction: row;
   gap: 30px;
   /* justify-content: space-evenly; */
-  width: 100%;
+  width: 50%;
 }
 #contacts .item-wrapper, #contacts .social-wrapper{
   flex:1;
@@ -605,14 +605,14 @@ font-size: 3vw;
   }
 
 
-/*   footer .contacts .icons img,
+  footer .contacts .icons img,
 footer .contacts img {
   width: 20px;
   height: 20px;
   margin-left: 10px;
   color: white;
   filter: contrast(0%) brightness(100%);
-} */
+}
 
 }
 
