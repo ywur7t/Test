@@ -110,7 +110,7 @@ header{
 
 /* main-block */
 #main {
-  background-image: url("../src/main.png");
+  background-image: url("./main.png");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
