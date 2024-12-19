@@ -519,6 +519,9 @@ footer .contacts img {
 
 }
 @media (max-width: 480px){
+  header li a{
+    font-size: 1vw;
+  }
   #main{
     height: 200px;
   }
