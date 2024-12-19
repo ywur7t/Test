@@ -364,7 +364,7 @@ header{
   flex-direction: row;
   gap: 30px;
   /* justify-content: space-evenly; */
-  width: 50%;
+/*   width: 50%; */
 }
 #contacts .item-wrapper, #contacts .social-wrapper{
   flex:1;
